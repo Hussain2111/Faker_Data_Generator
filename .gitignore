@@ -1,0 +1,16 @@
+# Configuration files
+columns.json
+config.json
+tsconfig.json
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Ignore secrets directory
+secrets/

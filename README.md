@@ -35,7 +35,7 @@ The `columns.json` file is included in the repository and defines the structure 
   { "columnName": "last_name", "type": "string", "length": 50 },
   { "columnName": "sex", "type": "string", "length": 10 },
   { "columnName": "date_of_birth", "type": "string", "length": 20 },
-  { "columnName": "phone", "type": "string", "length": 8 },
+  { "columnName": "phone", "type": "number", "length": 8 },
   { "columnName": "email", "type": "string", "length": 100 },
   { "columnName": "address", "type": "string", "length": 100 },
   
